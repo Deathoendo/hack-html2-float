@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.header {
+    background-color: #AB2849;
+    height: 350px;
+    width: 100%;
+}
+.b0 {
+    background-color: #93B5C9;
+    height: 40%;
+}
+main{
+    height: 400px;
+    width: 100%;
+}
+.section {
+    float: left ;
+    background-color: #AB2849;
+    height: 25%;
+    width: 80%;
+    margin: 20px;
+    margin-left: 0;
+}
+footer {
+    float: left;
+    background-color: #AB2849;
+    height: 100px;
+    width: 90%;
+    margin-left: 5%;
+}
